@@ -1,6 +1,6 @@
 ![Alt Text](github_cover.png)
 
-# Hello guys, I am Zaw!👋
+# Hello guys, I'm Zaw Maung!👋
 
 ### I'm currently working as:<br>
 💼 Full-time Software Engineer <br>🧑‍🏫 Web Development Tutor  <br>🛒 E-commerce Platform Developer  <br>🧑‍🎓 Freelance University Assessments Assistant
