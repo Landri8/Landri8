@@ -1,4 +1,4 @@
-![Alt Text](git_cover.png)
+![Alt Text](github_cover.png)
 
 # Hello guys, I am Zaw!👋
 
